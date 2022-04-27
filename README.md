@@ -4,6 +4,7 @@ This is the official repository of ESTF (Enhanced Spatial-Temporal Freedom for V
 Last Update: 20220427 -  The code of our proposed method is ready and will be available to public as soon as the manuscript is accepted. 
 
 # Prerequisites
+The following pakages are required to run the code:
 * Python == 3.7.6
 * Pytorch == 1.2.0
 * Torchvision == 0.4.0
