@@ -16,6 +16,6 @@ Vimeo_septuplet is used as our training and testing dataset. Please download and
 # Testing
 We have released the model weight in ./modeldict/, you can directly use it to do the evaluation. Using the command to start the testing process.
 
-'$ python3 eval.py'
+`$ python3 eval.py`
 
 
