@@ -12,19 +12,19 @@ The following pakages are required to run the code:
 * Numpy == 1.18.1
 
 # Datasets
-Vimeo_septuplet is used as our training and testing dataset. Please download and unzip it somewhere on your device. Then change the training and testing directory in ./configs/config.py.
+Vimeo_septuplet is used as our training and testing dataset. Please download and unzip it somewhere on your device. Then change the training and testing directory in ./configs/config_3D_z2_grid_skip.py.
 
 # Testing
 We have released the model weight in ./modeldict/, you can directly use it to do the evaluation. Using the command to start the testing process.
 
 ```
-$ python3 eval.py 
+$ python3 eval_myself.py 
 ```
 
 # Training
 You can also choose to retrain the model, just use the command to start the training process.
 ```
-$ python3 train_full_model.py
+$ python3 train_full_model_3D_z2_grid_skip.py
 ```
 
 # License
