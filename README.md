@@ -1,6 +1,7 @@
 # ESTF
 This is the official repository of ESTF (Enhanced Spatial-Temporal Freedom for Video Frame Interpolation).
 
+Last Update: 20220427 -  The code of the proposed method  will be published as soon as the manuscript is accepted. 
 Last Update: 20220525 -  The code of the proposed method has been submitted. 
 
 # Prerequisites
